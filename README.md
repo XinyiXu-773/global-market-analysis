@@ -11,12 +11,12 @@ segmentation** to support data-driven market expansion and entry strategy decisi
 
 ## Dashboard Preview (no download required)
 
-![Overview](images/01_overview.png)
+![Overview](images/01_overview)
 
 ### Interactive features
-![Region filter](images/02_filter_region.png)
-![Cluster comparison](images/03_cluster_comparison.png)
-![Drill-through](images/04_drillthrough.png)
+![Region filter](images/02_filter_region)
+![Cluster comparison](images/03_cluster_comparison)
+![Drill-through](images/04_drillthrough)
 
 ### Short interactive demo
 ![Interactive demo](images/05_interactive_demo.gif)
