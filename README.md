@@ -71,6 +71,7 @@ analysis/       # R scripts for clustering and segmentation
 data/           # Cleaned and merged datasets used for analysis
 presentation/   # Project presentation slides
 images/         # Dashboard screenshots and GIF demo
+```
 
 ---
 
