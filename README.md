@@ -71,3 +71,23 @@ analysis/       # R scripts for clustering and segmentation
 data/           # Cleaned and merged datasets used for analysis
 presentation/   # Project presentation slides
 images/         # Dashboard screenshots and GIF demo
+
+---
+
+## Tools & Skills Demonstrated
+
+- Power BI: data modelling, DAX, interactive dashboards
+- R: k-means clustering, segmentation analysis
+- Data preparation: data cleaning, reshaping, integration
+- Business analytics: translating analytical results into strategic insights
+
+---
+
+## Notes
+
+- The .pbix file is tracked using Git LFS due to file size
+- Dashboard screenshots and GIF previews are provided to demonstrate interactivity
+without requiring a download
+- This project was completed as part of an academic team assignment, with individual
+contributions focused on data preparation, segmentation analysis, and dashboard design
+- Business analytics: translating analytical results into strategic insights
