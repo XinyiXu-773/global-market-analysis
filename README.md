@@ -32,7 +32,7 @@ segmentation** to support data-driven market expansion and entry strategy decisi
 1. **Data collection & preparation**
    - Collected international datasets covering manufacturing output, trade balance,
      and GDP indicators
-   - Cleaned, reshaped, and consolidated data using Excel and Power BI
+   - Cleaned, reshaped, and consolidated data using R and Power BI
    - Created analytical fields and measures using DAX
 
 2. **Segmentation analysis (R)**
