@@ -55,11 +55,21 @@ segmentation** to support data-driven market expansion and entry strategy decisi
 
 ## Key Insights
 
-- Countries can be grouped into distinct market segments with different
-  manufacturing and trade profiles
-- High manufacturing output does not always correspond to a trade surplus
-- Segmentation highlights markets that may require differentiated entry
-  strategies rather than a one-size-fits-all approach
+- Countries can be segmented into distinct groups based on manufacturing capacity and trade balance  
+- Manufacturing scale alone does not determine market attractiveness or trade advantage  
+- Market entry strategies should differ by structural position rather than applying a uniform approach across countries
+
+---
+
+## Strategic Implications (Summary)
+
+The segmentation analysis suggests that international expansion strategies should vary by market structure rather than applying a uniform approach:
+
+- **Mature markets:** Emphasise brand differentiation and supply chain optimisation  
+- **Emerging growth markets:** Prioritise speed-to-market through local assembly or partnerships  
+- **Exploratory markets:** Use cross-border e-commerce to test demand before committing resources  
+
+Detailed cluster-level strategies and examples are documented in [`analysis/strategic_implications.md`](analysis/strategic_implications.md).
 
 ---
 
@@ -86,9 +96,6 @@ images/         # Dashboard screenshots and GIF demo
 
 ## Notes
 
-- The .pbix file is tracked using Git LFS due to file size
-- Dashboard screenshots and GIF previews are provided to demonstrate interactivity
-without requiring a download
 - This project was completed as part of an academic team assignment, with individual
 contributions focused on data preparation, segmentation analysis, and dashboard design
 - Business analytics: translating analytical results into strategic insights
