@@ -69,7 +69,7 @@ The segmentation analysis suggests that international expansion strategies shoul
 - **Emerging growth markets:** Prioritise speed-to-market through local assembly or partnerships  
 - **Exploratory markets:** Use cross-border e-commerce to test demand before committing resources  
 
-Detailed cluster-level strategies and examples are documented in [`analysis/strategic_implications.md`](analysis/strategic_implications.md).
+Detailed cluster-level strategies and examples are documented in [presentation/global_market_dashboard_slides.pptx](presentation/global_market_dashboard_slides.pptx).
 
 ---
 
